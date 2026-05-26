@@ -4,9 +4,9 @@ import 'package:http/http.dart' as http;
 import '../models/jewelry_result.dart';
 
 class GeminiService {
-  // ✅ Get FREE API key at: https://aistudio.google.com/app/apikey
+  // ✅ Get FREE API key at: https://aistudio.google.com/app/apikey // get new key
   static const String apiKey = 'AIzaSyAH7jsBvCQKllcZrXTWo2pRzmBiuaaJP60';
-
+  // update new key
   static const String _baseUrl =
       'https://generativelanguage.googleapis.com/v1beta/models/'
       'gemini-1.5-flash:generateContent';
