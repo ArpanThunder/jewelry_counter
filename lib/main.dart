@@ -32,4 +32,4 @@ class JewelryApp extends StatelessWidget {
       home: const HomeScreen(),
     );
   }
-}
+} //
